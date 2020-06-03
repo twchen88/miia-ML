@@ -1,0 +1,6 @@
+Google Facial Expression Comparison Dataset
+https://docs.google.com/forms/d/e/1FAIpQLSdMGi372nfP58Rd_MeCmHfbWgv8zqF54K4XzifWQ-JNV8qA3g/viewform
+R Vemulapalli, A Agarwala, “A Compact Embedding for Facial Expression Similarity”, CoRR, abs/1811.11283, 2018.
+
+Affect Wild Video Annotations (5.7G)
+https://drive.google.com/uc?id=1A6uU4XdO11o_VYSV5RCGiwCb9l4Wgk4s&export=download
