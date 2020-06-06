@@ -1,6 +1,11 @@
 Google Facial Expression Comparison Dataset
 https://docs.google.com/forms/d/e/1FAIpQLSdMGi372nfP58Rd_MeCmHfbWgv8zqF54K4XzifWQ-JNV8qA3g/viewform
-R Vemulapalli, A Agarwala, ìA Compact Embedding for Facial Expression Similarityî, CoRR, abs/1811.11283, 2018.
+R Vemulapalli, A Agarwala, ‚ÄúA Compact Embedding for Facial Expression Similarity‚Äù, CoRR, abs/1811.11283, 2018.
 
 Affect Wild Video Annotations (5.7G)
 https://drive.google.com/uc?id=1A6uU4XdO11o_VYSV5RCGiwCb9l4Wgk4s&export=download
+
+
+# Speech Emotion Recognition
+# Toronto emotional speech set
+Pichora-Fuller, M. Kathleen; Dupuis, Kate, 2020, "Toronto emotional speech set (TESS)", https://doi.org/10.5683/SP2/E8H2MF, Scholars Portal Dataverse, V1
