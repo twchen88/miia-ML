@@ -1,3 +1,5 @@
+Some facial expressions dataset: https://github.com/muxspace/facial_expressions
+
 Google Facial Expression Comparison Dataset
 https://docs.google.com/forms/d/e/1FAIpQLSdMGi372nfP58Rd_MeCmHfbWgv8zqF54K4XzifWQ-JNV8qA3g/viewform
 R Vemulapalli, A Agarwala, “A Compact Embedding for Facial Expression Similarity”, CoRR, abs/1811.11283, 2018.
