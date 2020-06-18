@@ -1,4 +1,4 @@
-# primal-track-ML
+# miia-ML
 Initial code for the development of machine learning models.
 
 # Emotion from Face
