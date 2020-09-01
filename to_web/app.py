@@ -1,5 +1,6 @@
 import numpy as np 
 from flask import Flask, request, jsonify, render_template
+from flask_cors import CORS
 import pickle
 from PIL import Image
 from tensorflow.keras.models import load_model
@@ -15,6 +16,7 @@ import cv2
 from model import get_model
 
 app = Flask(__name__, template_folder='templates')
+CORS(app)
 
 def model_predict(img_path):
 	model = load_model('model/model2.h5') 
